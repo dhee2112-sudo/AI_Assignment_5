@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Goa",
+        "type": "Beach",
+        "budget": 15000,
+        "food": "Seafood"
+    },
+
+    {
+        "name": "Manali",
+        "type": "Mountain",
+        "budget": 12000,
+        "food": "Himachali"
+    },
+
+    {
+        "name": "Hyderabad",
+        "type": "City",
+        "budget": 8000,
+        "food": "Biryani"
+    },
+
+    {
+        "name": "Jaipur",
+        "type": "City",
+        "budget": 10000,
+        "food": "Rajasthani"
+    },
+
+    {
+        "name": "Ooty",
+        "type": "Mountain",
+        "budget": 9000,
+        "food": "South Indian"
+    }
+]
