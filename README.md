@@ -1,4 +1,5 @@
 AI Assignment 5
+
  *Programs Implemented
  *Minimax Algorithm
  *Alpha-Beta Pruning
@@ -7,6 +8,7 @@ AI Assignment 5
  *AI Travel Planner
  *Knowledge Graph
  *Bayesian Network
+
 Tools & Libraries Used
 -Python
 -NetworkX
@@ -14,6 +16,7 @@ Tools & Libraries Used
 -pgmpy
 -VS Code
 -Git & GitHub
+
 Run Commands
 -python3 minimax.py
 -python3 alphabeta.py
